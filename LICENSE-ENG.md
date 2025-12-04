@@ -1,5 +1,5 @@
 ## AM-331-A3 Software License
-Effective: April 2018 Page Content
+Effective: December 2025 Page Content
 
 The “Software” (as defined below), with the exception of the Support and Use Documentation (the “Documentation”), shall be subject to the following terms and conditions, which shall be packaged as part of each Software under a file named “LICENSE”:
 “Copyright © [year]. Inter-American Development Bank (“IDB”). Authorized Use.”
