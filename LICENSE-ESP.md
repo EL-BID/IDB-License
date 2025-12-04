@@ -1,5 +1,5 @@
 ## AM-331-A3 Licencia de Software
-Effective: April 2018 Contenido de la página
+Effective: December 2025 Contenido de la página
 
 El “Software” (según como se define más adelante), con excepción de la Documentación
 de Soporte y Uso (la “Documentación”), deberá estar sujeto a los siguientes términos y 
