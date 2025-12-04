@@ -1,4 +1,4 @@
-## AM-331-A3 Licencia de Software
+## Licencia de Software de Código Abierto del BID
 Effective: Diciembre 2025 Contenido de la página
 
 El “Software” (según como se define más adelante), con excepción de la Documentación
