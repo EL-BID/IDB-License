@@ -5,6 +5,7 @@ Vigencia: ____ 2025
 Contenido de la página
 
 El Software, con excepción de la Documentación de Soporte y Uso, estará sujeto a los siguientes términos y condiciones, que se incluirán como parte de cada Software en un archivo denominado "LICENCIA":
+
 "Copyright © [year]. Inter-American Development Bank ("IDB"). Authorized Use." 
 
 ### 1. Licencia
@@ -54,7 +55,7 @@ Los procedimientos y resultados obtenidos con la ejecución de este software son
 
 "Copyright © [year]. Inter-American Development Bank ("IDB"). The Support and Usage Documentation is licensed under the Creative Commons License CC-BY 4.0 license. The opinions expressed in the Support and Usage Documentation are those of its authors and do not necessarily reflect the opinions of the IDB, its Board of Executive Directors, or the countries it represents.” 
 
-«Copyright © [año]. Banco Interamericano de Desarrollo (BID). La Documentación de Soporte y Uso está licenciada bajo la licencia Creative Commons CC-BY 4.0. Las opiniones expresadas en la Documentación de Soporte y Uso son las de sus autores y no reflejan necesariamente las opiniones del BID, su Directorio Ejecutivo ni los países que representa». 
+"Copyright © [año]. Banco Interamericano de Desarrollo (BID). La Documentación de Soporte y Uso está licenciada bajo la licencia Creative Commons CC-BY 4.0. Las opiniones expresadas en la Documentación de Soporte y Uso son las de sus autores y no reflejan necesariamente las opiniones del BID, su Directorio Ejecutivo ni los países que representa”. 
 
 6.1.2 En el caso del software del Fondo Multilateral de Inversiones ("BID Lab"), la exención de responsabilidad será la siguiente: 
 
@@ -64,7 +65,7 @@ Los procedimientos y resultados obtenidos con la ejecución de este software son
 
 6.1.2.1 Para la documentación asociada al software BID Lab, la exención de responsabilidad será la siguiente: 
 
-"The opinions expressed in the Support and Usage Documentation are those of its authors and do not necessarily reflect the opinions of the IDB, its Board of Executive Directors, or the countries it represents, nor those of the IDB Lab Donors Committee or the countries it represents.” 
+"The opinions expressed in the Support and Usage Documentation are those of its authors and do not necessarily reflect the opinions of the IDB, its Board of Executive Directors, or the countries it represents, nor those of the IDB Lab Donors Committee or the countries it represents”. 
 
 "Las opiniones expresadas en la documentación de soporte y uso son las de sus autores y no reflejan necesariamente las opiniones del BID, su Directorio Ejecutivo ni de los países que representa, ni las del Comité de Donantes del BID Lab ni las de los países que representa".
 
@@ -97,6 +98,7 @@ Salvo lo expresamente permitido en esta Licencia, el Usuario no podrá utilizar 
 9.2 Ciertos servicios, materiales, conjuntos de datos, funciones o componentes disponibles a través del Software son proporcionados por proveedores externos o se derivan de materiales proporcionados por ellos (en conjunto, los "Materiales de Terceros"). Al utilizar el Software, el Usuario reconoce y consiente que el BID pueda compartir información y datos con los proveedores externos correspondientes según sea necesario para habilitar y poner a disposición los Materiales de Terceros a través del Software. Además, el BID RENUNCIA EXPRESAMENTE A TODA RESPONSABILIDAD POR CUALQUIER MATERIAL DE TERCEROS ESTABLECIDO, DESCRITO O ACCEDIDO A TRAVÉS DEL SOFTWARE, Y EL USUARIO ACEPTA QUE EL BID NO SERÁ RESPONSABLE DE NINGUNA PÉRDIDA O DAÑO INCURRIDO COMO RESULTADO DE CUALQUIER TRATO ENTRE EL USUARIO Y UN PROVEEDOR EXTERNO, YA SEA FACILITADO POR O REALIZADO EN RELACIÓN CON EL SOFTWARE.
 
 También podrán aplicarse términos y condiciones adicionales a partes o características específicas del Software, incluyendo, entre otros, los términos que rigen cualquier Material de Terceros. El Usuario acepta que: (a) este Acuerdo se aplica en adición a cualquier término de uso impuesto o requerido por dicho proveedor externo; y (b) los términos de este Acuerdo complementan y no alteran ni modifican dichos términos de uso de terceros.
+
 ### 10. Indemnización
 
 10.1 El Usuario se compromete a exonerar, defender e indemnizar al BID, a su personal y a sus consultores, según corresponda, frente a cualquier reclamación, queja, acción, pérdida, demanda, responsabilidad, obligación, daño o costo, incluyendo, entre otros, honorarios de abogados, que se interpongan contra el BID, su personal y/o sus consultores por:
