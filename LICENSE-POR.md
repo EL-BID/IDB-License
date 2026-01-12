@@ -1,6 +1,6 @@
 ## Licença de Software de Código Aberto do BID 
 
-Vigência: ____ 2025 
+Vigência: Dezembro 2025 
 
 O Software, com exceção da Documentação de Suporte e de Uso, estará sujeito aos seguintes termos e condições, que deverão ser incluídos como parte de cada Software em um arquivo denominado “LICENSE”: 
 
