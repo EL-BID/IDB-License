@@ -1,6 +1,6 @@
 ## Licencia de Software de Código Abierto del BID
 
-Vigencia: ____ 2025
+Vigencia: Diciembre 2025
 
 Contenido de la página
 
